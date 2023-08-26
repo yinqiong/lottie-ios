@@ -23,7 +23,7 @@ Lottie enables designers to create and ship beautiful animations without an engi
   s.source           = { :git => 'https://github.com/airbnb/lottie-ios.git', :tag => s.version.to_s }
 
   s.swift_version = '5.5'
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '10.0'
   s.osx.deployment_target = '10.12'
   s.tvos.deployment_target = '11.0'
 
